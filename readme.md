@@ -26,8 +26,8 @@ npm run test -- --filter cermati.js
 
 ### Project Development Guideline
 	* [Agile]
-		* [Scrum](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)
-		* [Kanban](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)
+		* [Scrum].(https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)
+		* [Kanban].(https://www.atlassian.com/agile/kanban/kanban-vs-scrum)
     
     
 ### [Git](https://git-scm.com/)
