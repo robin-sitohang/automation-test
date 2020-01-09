@@ -31,4 +31,4 @@ npm run test -- --filter cermati.js
     
     
 ### [Git](https://git-scm.com/)
-	* [git flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+	* [git flow].(https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
