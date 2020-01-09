@@ -3,7 +3,7 @@
 ## How to setup
 
 ```
-git clone git@github.com:robin-sitohang/sqa-test.git
+git clone git@github.com:robin-sitohang/automation-test.git
 
 cd sqa-test
 
